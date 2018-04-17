@@ -1,4 +1,5 @@
 .footer {
+    font-family: sans-serif;
     background-color: azure;
 }
 
@@ -8,8 +9,4 @@
 
 .main {
     font-style: italic;
-}
-
-.footer {
-    font-family: sans-serif;
 }
