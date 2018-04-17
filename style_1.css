@@ -1,7 +1,15 @@
+.footer {
+    background-color: azure;
+}
+
+.footer p {
+    background-color: aqua;
+}
+
 .main {
     font-style: italic;
 }
 
 .footer {
-font-family: sans-serif;
+    font-family: sans-serif;
 }
